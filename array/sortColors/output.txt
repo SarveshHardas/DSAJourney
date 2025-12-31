@@ -1,0 +1,5 @@
+expected output:
+[0,0,1,1,2,2]
+
+your answer:
+[0, 0, 1, 1, 2, 2]
