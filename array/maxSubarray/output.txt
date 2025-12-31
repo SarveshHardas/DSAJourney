@@ -2,3 +2,4 @@ expected output:
 6
 
 your output:
+6
